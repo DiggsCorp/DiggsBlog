@@ -39,14 +39,26 @@ jobs:
           ruby-version: '3.1' # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v4
+      # - name: Setup Pages
+      #   id: pages
+      #   uses: actions/configure-pages@v4
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-      - name: Upload artifact
-        # Automatically uploads an artifact from the './_site' directory by default
-        uses: actions/upload-pages-artifact@v3
+      # - name: Upload artifact
+      #   # Automatically uploads an artifact from the './_site' directory by default
+      #   uses: actions/upload-pages-artifact@v3
+      - name: Upload a Build Artifact
+        uses: actions/upload-artifact@v4.0.0
+        with:
+          # Artifact name
+          name: DiggsBlog
+          # A file, directory or wildcard pattern that describes what to upload
+          path: _site
+          # The desired behavior if no files are found using the provided path.
+          if-no-files-found: error
+          retention-days: 90
+          compression-level: 6
+            
