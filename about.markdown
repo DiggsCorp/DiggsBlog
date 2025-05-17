@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Oyé ! Je suis le maître, l'image, la mascotte du SOC ! Et j'aime voyager, des fois.
+Oyé ! Je suis le maître, l'image, la mascotte du SOC ! Et j'aime voyager, desfois.
