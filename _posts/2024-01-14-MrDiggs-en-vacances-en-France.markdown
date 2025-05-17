@@ -8,7 +8,7 @@ Ras-le-bol du sirop d’érable, de la neige et du froid, le Noël de cette ann�
 
 ![image](/images/post1_1.png)
 
-Après quelques heures de voyage où le sommeil manquait cruellement, j’ai enfin pu poser les pieds dans le nouveau pays. Ma première tâche : goûter à cette soi-disant “succulente” viennoiserie dont les gens du bureau parlent si souvent. Tant de débats avaient émergé du nom de ce petit délice régional… Force est d’admettre cependant, ce chocolat entouré de pâte feuilletée porte bien son nom, car il s’agit bel et bien d’un **pain au chocolat**. J’espère que cela mettra fin à cette vieille controverse. 
+Après quelques heures de voyage où le sommeil manquait cruellement, j’ai enfin pu poser les pieds dans le nouveau pays. Ma première tâche : goûter à cette soi-disant “succulente” viennoiserie dont les gens du bureau parlent si souvent. Tant de débats avaient émergé du nom de ce petit délice régional… Force est d’admettre cependant, ce chocolat entouré de pâte feuilletée porte bien son nom, car il s’agit bel et bien d’une **chocolatine**. J’espère que cela mettra fin à cette vieille controverse. 
 
 ![image](/images/post1_2.png)
 
